@@ -17,4 +17,5 @@ ID:   VI
 
 >Command "-get help!" PS
 
+```
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
