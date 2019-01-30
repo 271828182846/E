@@ -3,7 +3,7 @@ INFO: "Hyper-V"
 TITLE: 'Fusion'
 TAG: 'jS'
 UNITS: 'ETC-NEM'
-LABEL: '207.3M - 9.0B'
+LABEL: '217.3M - 9.0B'
 BLOCK: 2.71828182846
 ABOUT: Virtual Identity
 
