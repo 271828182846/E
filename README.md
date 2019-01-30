@@ -8,8 +8,9 @@ ADV: 2.71828182846
 ID:   VI
 
 ---
-[![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
 
 `Official Go language implementation of the Ethereum protocol supporting the Ethereum Classic (ETC)`,
+[![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
+
 
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
