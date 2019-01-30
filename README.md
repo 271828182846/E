@@ -1,11 +1,11 @@
 ---
-INFO: "OZTURNA"
+INFO: "Hyper-V"
 TITLE: 'Fusion'
-TAG: 'FFA'
+TAG: 'OZT'
 UNITS: 'ETC-NEM'
 LABEL: '107.1M - 9.0B'
 BLOCK: 2.71828182846
-ABOUT: Harmonization
+ABOUT: Virtual Identity
 
 ---
 [![MacOS Build Status](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master.svg?style=shield)](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master)
