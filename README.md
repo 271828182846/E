@@ -1,7 +1,7 @@
 ---
 INFO: "Hyper-V"
 TITLE: 'Fusion'
-TAG: 'OZT'
+TAG: 'jS'
 UNITS: 'ETC-NEM'
 LABEL: '107.1M - 9.0B'
 BLOCK: 2.71828182846
