@@ -1,10 +1,10 @@
 ---
 NAME: "Fusion"
 ABOUT: Harmonization of equations
-UNIT: 'ETC-NEM'
+UNITS: 'ETC-NEM'
 TAG: 'FFA'
 TITLE: 'OZT'
-LABEL: '17.009'
+LABEL: '107.1M - 9.0B
 BLOCK: 2.71828182846
 
 ---
