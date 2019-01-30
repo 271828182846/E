@@ -9,6 +9,6 @@ ID:   VI
 
 ---
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
-[![API Reference]
+[![API Reference]]
 
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
