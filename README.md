@@ -10,7 +10,6 @@ ID:   VI
 ---
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
 
-`Official Go language implementation of the Ethereum protocol supporting the
-_original_ chain. Ethereum Classic (ETC)`,
+`Official Go language implementation of the Ethereum protocol supporting the Ethereum Classic (ETC)`,
 
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
