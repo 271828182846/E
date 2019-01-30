@@ -1,6 +1,6 @@
 ---
 NAME: "Fusion"
-ABOUT: Harmonization of equations
+ABOUT: Harmonization
 UNITS: 'ETC-NEM'
 TAG: 'FFA'
 TITLE: 'OZT'
