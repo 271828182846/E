@@ -14,4 +14,4 @@ ID:   VI
 )](https://godoc.org/github.com/ethereumproject/go-ethereum)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumproject/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
+[` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
