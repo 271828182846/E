@@ -1,11 +1,11 @@
 ---
-NAME: "Fusion"
-ABOUT: Harmonization
-UNITS: 'ETC-NEM'
+INFO: "OZTURNA"
+TITLE: 'Fusion'
 TAG: 'FFA'
-TITLE: 'OZT'
+UNITS: 'ETC-NEM'
 LABEL: '107.1M - 9.0B'
 BLOCK: 2.71828182846
+ABOUT: Harmonization
 
 ---
 [![MacOS Build Status](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master.svg?style=shield)](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master)
