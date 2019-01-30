@@ -5,7 +5,7 @@ TAG: 'jS'
 UNITS: 'ETC-NEM'
 LABEL: '217.3M - 9.0B'
 BLOCK: 2.71828182846
-ABOUT: Virtual Identity
+ABOUT: VI
 
 ---
 [![MacOS Build Status](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master.svg?style=shield)](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master)
