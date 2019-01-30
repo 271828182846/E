@@ -1,7 +1,8 @@
 ---
 NAME: "Fusion"
 ABOUT: Harmonization of equations
-UNIT: 'ETC'
+TAG: #FFA
+UNITS: 'ETC-XEM'
 TITLE: 'OZT'
 LABEL: '17.009'
 BLOCK: 2.71828182846
