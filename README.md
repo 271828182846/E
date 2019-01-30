@@ -1,3 +1,12 @@
+---
+NAME: "Fusion"
+ABOUT: Harmonization of equations
+UNIT: 'ETC'
+TITLE: 'Speace'
+LABEL: '17.009'
+BLOCK: 2.71828182846
+
+---
 [![MacOS Build Status](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master.svg?style=shield)](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/ethereumproject/go-ethereum?svg=true)](https://ci.appveyor.com/project/splix/go-ethereum)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
@@ -5,16 +14,5 @@
 )](https://godoc.org/github.com/ethereumproject/go-ethereum)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumproject/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
----
-
-NAME: "Fusion"
-ABOUT: Harmonization of equations
-TAG: FFA
-UNITS: 'ETC-XEM'
-TITLE: 'OZT'
-LABEL: '17.009'
-BLOCK: 2.71828182846
-
----
 
 [` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
