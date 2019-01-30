@@ -15,7 +15,8 @@ ID:   VI
 ```
 >For further `make` information, use `make help` to see a list and description of available;
 
->Command PowerShell `-get help!`
+>Command PS `-get help!`
 
+>
 ```
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
