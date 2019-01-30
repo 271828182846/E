@@ -13,9 +13,9 @@ ID:   VI
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
 
 ```
->For further `make` information, use `make help` to see a list and description of available.
+>For further `make` information, use `make help` to see a list and description of available;
 
->Command "-get help!" PS
+>Command `get help!`PS
 
 ```
 [` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
