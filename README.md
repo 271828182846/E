@@ -1,13 +1,3 @@
----
-NAME: "Fusion"
-ABOUT: Harmonization of equations
-UNITS: 'ETC-NEM'
-TAG: 'FFA'
-TITLE: 'OZT'
-LABEL: '107.1M - 9.0B
-BLOCK: 2.71828182846
-
----
 [![MacOS Build Status](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master.svg?style=shield)](https://circleci.com/gh/ethereumproject/go-ethereum/tree/master)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/ethereumproject/go-ethereum?svg=true)](https://ci.appveyor.com/project/splix/go-ethereum)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
@@ -15,5 +5,16 @@ BLOCK: 2.71828182846
 )](https://godoc.org/github.com/ethereumproject/go-ethereum)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumproject/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+---
+NAME: "Fusion"
+ABOUT: Harmonization of equations
+UNITS: 'ETC-NEM'
+TAG: 'FFA'
+TITLE: 'OZT'
+LABEL: '107.1M - 9.0B'
+BLOCK: 2.71828182846
 
-[` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
+---
+
+
+.[` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
