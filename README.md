@@ -1,7 +1,7 @@
 ---
 INFO: "Hyper-V"
-TITLE: 'Fusion'
-TAG: 'jS'
+TITLE: 'Void'
+TAG: 'RSI'
 UNITS: 'ETC-NEM'
 LABEL: '217.3M - 9.0B'
 ADV: 2.71828182846
