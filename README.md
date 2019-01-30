@@ -1,7 +1,7 @@
 ---
 NAME: "Fusion"
 ABOUT: Harmonization of equations
-TAG: #FFA
+TAG: `FFA`
 UNITS: 'ETC-XEM'
 TITLE: 'OZT'
 LABEL: '17.009'
