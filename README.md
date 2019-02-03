@@ -1,15 +1,18 @@
 ---
-INFO: "Hyper-V"
-TITLE: 'Void'
-TAG: 'RSI'
+INFO: "Horizon-TR"
+TITLE: 'BTC'
+LABEL: 'ETH'
 UNITS: 'ETC-NEM'
-LABEL: '217.3M - 9.0B'
+ID:   Void
 ADV: 2.71828182846
-ID:   VI
+Indhstry: RSI
+TG: Trig-Radius
+APL: DTR
 
 ---
 
 `Official Go language implementation of the Ethereum (ETH) protocol supporting the Ethereum Classic (ETC)`,
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
 
 ```
