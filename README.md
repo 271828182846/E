@@ -21,6 +21,5 @@ APL: DTR
 
 >
 ```
-[` Copyright © 2019 - OΣR `](https://www.mcafeesecure.com/verify?host=ozturna.info)
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/ethereumproject/go-ethereum)](https://goreportcard.com/report/github.com/ethereumproject/go-ethereum)
+[` Copyright © 2019 - OΣR `](https://gist.github.com/0ZT/6078bf85ee73364cf02bdf21d3605e30#file-information)
+[` Secure`](https://www.mcafeesecure.com/verify?host=ozturna.info)
