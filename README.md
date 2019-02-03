@@ -17,7 +17,7 @@ APL: DTR
 ```
 >For further `make` information, use `make help` to see a list and description of available;
 
->Command PS `-get help!`
+>Command PS -get help!
 
 >
 ```
